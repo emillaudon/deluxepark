@@ -185,6 +185,7 @@ nav ul li a:hover{
 }
 .left-box-carwash {
     background-image: url('Pictures/carwash1.jpg');
+    background-size: 100%;
     color: black;
     height: 60vh;
     width: 55%;
@@ -204,7 +205,7 @@ nav ul li a:hover{
 }
 .right-box-carwash{
     background-image: url('Pictures/carwash2.jpg');
-
+    background-size: 100%;
     color: black;
     height: 60vh;
     width: 55%;
@@ -224,7 +225,7 @@ nav ul li a:hover{
 }
 .left-box-findus {
     background-image: url('Pictures/karta1.jpg');
-    background-size: 900px 900px;
+    background-size: 100%;
     color: black;
     height: 60vh;
     width: 55%;
@@ -244,7 +245,7 @@ nav ul li a:hover{
 }
 .right-box-findus{
     background-image: url('Pictures/karta2.jpg');
-    background-size: 900px 500px;
+    background-size: 100%;
     color: black;
     height: 60vh;
     width: 55%;
@@ -264,7 +265,7 @@ nav ul li a:hover{
 }
 .left-box-booking {
     background-image: url('Pictures/booking.jpg');
-    background-size: 800px 500px;
+    background-size: 100%;
     color: black;
     height: 60vh;
     width: 55%;
@@ -284,7 +285,7 @@ nav ul li a:hover{
 }
 .left-box-contact {
     background-image: url('Pictures/contact1.jpg');
-    background-size: 800px 500px;
+    background-size: 100%;
     color: black;
     height: 60vh;
     width: 55%;
@@ -304,7 +305,7 @@ nav ul li a:hover{
 }
 .right-box-about {
     background-image: url('Pictures/about1.png');
-    background-size: 800px 500px;
+    background-size: 100%;
     height: 60vh;
     width: 25%;
     float: right;
