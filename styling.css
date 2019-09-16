@@ -1,6 +1,8 @@
 body {
     width: 100%;
     background-color: #a20e0e;
+    background-image: url('Backgroundmaybe.jpg');
+    background-size: .5%;
     margin: 0 auto;
     width: 100%;
     overflow-x: hidden;
