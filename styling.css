@@ -30,7 +30,6 @@ h2{
     margin: 60px auto; 
 }*/
 .left-box {
-  /*  background-color: green;*/
     background-image: url('car-park-960796_1920.jpg');
     background-size: 700px 500px;
     color: black;
@@ -184,3 +183,196 @@ nav ul li a.active:hover{
 nav ul li a:hover{
     background: #a20e0e65;
 }
+.left-box-carwash {
+    background-image: url('Pictures/carwash1.jpg');
+    color: black;
+    height: 60vh;
+    width: 55%;
+    float: left;
+    margin-left: 120px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    transition-duration: .5s;
+    text-align: center;
+    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
+    border-left: 2px solid rgba(128, 128, 128, 0.733);
+}
+.left-box-carwash:hover {
+    transform:scale(1.02);
+    border-bottom: 2px solid  black;
+    border-left:  2px solid black;
+}
+.right-box-carwash{
+    background-image: url('Pictures/carwash2.jpg');
+
+    color: black;
+    height: 60vh;
+    width: 55%;
+    float: right;
+    margin-right: 110px;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    transition-duration: .5s;
+    text-align: center;
+    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
+    border-right: 2px solid rgba(128, 128, 128, 0.733);
+}
+.right-box-carwash:hover{
+    transform: scale(1.02);
+    border-bottom: 2px solid  black;
+    border-right: 2px solid black;
+}
+.left-box-findus {
+    background-image: url('Pictures/karta1.jpg');
+    background-size: 900px 900px;
+    color: black;
+    height: 60vh;
+    width: 55%;
+    float: left;
+    margin-left: 120px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    transition-duration: .5s;
+    text-align: center;
+    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
+    border-left: 2px solid rgba(128, 128, 128, 0.733);
+}
+.left-box-findus:hover {
+    transform:scale(1.02);
+    border-bottom: 2px solid  black;
+    border-left:  2px solid black;;
+}
+.right-box-findus{
+    background-image: url('Pictures/karta2.jpg');
+    background-size: 900px 500px;
+    color: black;
+    height: 60vh;
+    width: 55%;
+    float: right;
+    margin-right: 110px;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    transition-duration: .5s;
+    text-align: center;
+    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
+    border-right: 2px solid rgba(128, 128, 128, 0.733);
+}
+.right-box-findus:hover{
+    transform: scale(1.02);
+    border-bottom: 2px solid  black;
+    border-right: 2px solid black;
+}
+.left-box-booking {
+    background-image: url('Pictures/booking.jpg');
+    background-size: 800px 500px;
+    color: black;
+    height: 60vh;
+    width: 55%;
+    float: left;
+    margin-left: 120px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    transition-duration: .5s;
+    text-align: center;
+    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
+    border-left: 2px solid rgba(128, 128, 128, 0.733);
+}
+.left-box-booking:hover {
+    transform:scale(1.02);
+    border-bottom: 2px solid  black;
+    border-left:  2px solid black;
+}
+.left-box-contact {
+    background-image: url('Pictures/contact1.jpg');
+    background-size: 800px 500px;
+    color: black;
+    height: 60vh;
+    width: 55%;
+    float: left;
+    margin-left: 120px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    transition-duration: .5s;
+    text-align: center;
+    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
+    border-left: 2px solid rgba(128, 128, 128, 0.733);
+}
+.left-box-contact:hover {
+    transform:scale(1.02);
+    border-bottom: 2px solid  black;
+    border-left:  2px solid black;
+}
+.right-box-about {
+    background-image: url('Pictures/about1.png');
+    background-size: 800px 500px;
+    height: 60vh;
+    width: 25%;
+    float: right;
+    margin-right: 120px;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    transition-duration: .5s;
+    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
+    border-right: 2px solid rgba(128, 128, 128, 0.733);
+}
+.right-box-about:hover {
+    transform: scale(1.02);
+    border-bottom: 2px solid  black;
+    border-right: 2px solid black;
+}
+.left-box-about {
+    background-color: #a20e0e;
+    color:white;
+    height: 60vh;
+    width: 55%;
+    float: left;
+    margin-left: 120px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    transition-duration: .5s;
+    text-align: center;
+    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
+    border-left: 2px solid rgba(128, 128, 128, 0.733);
+}
+.left-box-about:hover {
+    transform:scale(1.02);
+    border-bottom: 2px solid  black;
+    border-left:  2px solid black;
+}
+.right-box2-about{
+    background-color: #a20e0e;
+    color:white;
+    height: 60vh;
+    width: 55%;
+    float: right;
+    margin-right: 110px;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    transition-duration: .5s;
+    text-align: center;
+    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
+    border-right: 2px solid rgba(128, 128, 128, 0.733);
+}
+.right-box2-about:hover{
+    transform: scale(1.02);
+    border-bottom: 2px solid  black;
+    border-right: 2px solid black;
+}
+.left-box2-about{
+    background-image: url('Pictures/about2.jpg');
+    background-size: 700px 500px;
+    height: 60vh;
+    width: 25%;
+    float: left;
+    margin-left: 130px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    transition-duration: .5s;
+    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
+    border-left: 2px solid rgba(128, 128, 128, 0.733);
+    text-align: right;
+}
+.left-box2-about:hover{
+    transform: scale(1.02);
+    border-bottom: 2px solid  black;
+    border-left: 2px solid black;
