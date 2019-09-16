@@ -361,7 +361,7 @@ nav ul li a:hover{
 }
 .left-box2-about{
     background-image: url('Pictures/about2.jpg');
-    background-size: 100%;
+    background-size: 800px 500px;
     height: 60vh;
     width: 25%;
     float: left;
@@ -369,9 +369,7 @@ nav ul li a:hover{
     border-top-left-radius: 10%;
     border-bottom-left-radius: 10%;
     transition-duration: .5s;
-    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
-    border-left: 2px solid rgba(128, 128, 128, 0.733);
-    text-align: right;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.733);
 }
 .left-box2-about:hover{
     transform: scale(1.02);
