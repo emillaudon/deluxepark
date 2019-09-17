@@ -97,7 +97,7 @@ h2{
     margin-top: 40px;
 }
 .background2{
-    background-color: #f3f0d1;
+    background-color: #f3f0d1de;
     width: 100vl;
     height: 60vh;
     padding: 10px 10px;
@@ -106,6 +106,36 @@ h2{
     margin-top: 120px;
     margin-bottom: 90px;
     
+}
+.background3{
+    background-color: #f3f0d1de;
+    width: 100vl;
+    height: 60vh;
+    padding: 10px 10px;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    margin-top: 120px;
+    margin-bottom: 90px;
+    overflow: hidden;
+    
+}
+.map {
+    background-color: white;
+    height: 60vh;
+    width: 83%;
+    float: left;
+    margin-left: 130px;
+    border-radius: 10%;
+    text-align: center;
+    overflow: hidden;
+    transition-duration: .5s;
+    border-bottom: 2px solid  rgba(128, 128, 128, 0.733);
+    border-right: 2px solid  rgba(128, 128, 128, 0.733);
+}
+.map:hover{
+    transform: scale(1.02);
+    border-bottom: 2px solid  black;
+    border-right: 2px solid black;
 }
 .right-box2{
     background-image: url('cctv-2596537_1920.jpg');
